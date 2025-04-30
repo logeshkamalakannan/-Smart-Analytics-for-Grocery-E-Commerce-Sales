@@ -1,3 +1,5 @@
+
+![Retail](https://github.com/logeshkamalakannan/-Smart-Analytics-for-Grocery-E-Commerce-Sales/blob/main/download.jpg)
 # 📦 RetailIQ: Smart Analytics for Grocery E-Commerce Sales
 
 ## 📌 Project Overview
@@ -60,7 +62,10 @@ The **RetailIQ: Smart Analytics for Grocery E-Commerce Sales** project uncovers 
 - Drill-down capabilities from summary to transactional detail  
 
 ---
-
+###Raw Dataset
+[Dataset](https://github.com/logeshkamalakannan/-Smart-Analytics-for-Grocery-E-Commerce-Sales/blob/main/BlinkIT%20Updated.csv)
+###PowerBI file
+[PowerBI File](https://github.com/logeshkamalakannan/-Smart-Analytics-for-Grocery-E-Commerce-Sales/blob/main/Blinkit.pbix)
 ## 🧩 Conclusion
 
 **RetailIQ** empowers e-commerce grocery businesses with a clear, data-driven view of sales performance and customer preferences. The dashboard supports informed decision-making for merchandising, regional targeting, and product development, enabling businesses to enhance both revenue and customer satisfaction.
