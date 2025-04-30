@@ -62,9 +62,9 @@ The **RetailIQ: Smart Analytics for Grocery E-Commerce Sales** project uncovers 
 - Drill-down capabilities from summary to transactional detail  
 
 ---
-###Raw Dataset
+### Raw Dataset
 [Dataset](https://github.com/logeshkamalakannan/-Smart-Analytics-for-Grocery-E-Commerce-Sales/blob/main/BlinkIT%20Updated.csv)
-###PowerBI file
+### PowerBI file
 [PowerBI File](https://github.com/logeshkamalakannan/-Smart-Analytics-for-Grocery-E-Commerce-Sales/blob/main/Blinkit.pbix)
 ## 🧩 Conclusion
 
